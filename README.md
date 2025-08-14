@@ -16,6 +16,8 @@ Note: This is a beta version. Please report any issues you encounter.
 - Built-in topology verification
 - Works with both IFC4 and IFC2x3 Structural Analysis View files
 
+![Example: Network graph representation of a structural model](examples\screenshots\building_3_graph.png)
+
 ## Installation
 ```bash
 git clone https://github.com/PsyrrasG/ifc2gnn.git

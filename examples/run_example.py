@@ -4,7 +4,7 @@ sys.path.append("../ifc2gnn")
 from ifc2gnn.ifc2gnn import IFCStructuralGraphParser
 
 # Load and parse the IFC file
-parser = IFCStructuralGraphParser("./examples/building_1_S_schema2x3.ifc")
+parser = IFCStructuralGraphParser("./examples/building_3_S_schema4.ifc")
 graph = parser.parse()
 
 # Get adjacency matrix
