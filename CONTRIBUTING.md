@@ -5,9 +5,10 @@
 4. Push to branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-# Rporting Issues
+# Reporting Issues
 1. Check existing issues
+
 2. Provide:
 - IFC sample file
-- Expected vs actual behavior
+- Expected vs actual behaviour
 - Error logs
